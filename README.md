@@ -5,9 +5,12 @@
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-### technology that we learn in 201 ,301
-| Foundations of Software Development      | Intermediate Software Development |
-| ----------- | ----------- |
-| HTML      | deep HTML ,CSS ,JS       |
-| CSS   | React        |
-| JS   | API        |
+## Why is note taking important? 
+- Notes **boost your understanding**
+- Notes _**aid your memory_**
+- Notes are a **repository of your thinking**
+- Notes are a resource for your writing
+
+
+
+

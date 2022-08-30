@@ -7,7 +7,7 @@
 
 ## Why is note taking important? 
 - Notes **boost your understanding**
-- Notes _**aid your memory_**
+- Notes **_aid your memory_**
 - Notes are a **repository of your thinking**
 - Notes are a resource for your writing
 

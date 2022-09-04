@@ -11,14 +11,14 @@
    | Can be used for complex query | Not good for complex query  |
 
    1. What kind of data is a good fit for an SQL database?
-      -complex queries.
+      complex queries.
 
    1. Give a real world example.
-      -Sqlite
-      -Postgres
-      -MySql
-      -MS-SQL
-      -Oracle
+      Sqlite
+      Postgres
+      MySql
+      MS-SQL
+      Oracle
    1. What kind of data is a good fit a NoSQL database?
       -NoSQL databases are often better suited to storing and modeling structured, semi-structured, and unstructured data in one database
    1. Give a real world example.
